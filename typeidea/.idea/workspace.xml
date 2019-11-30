@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edfc4afa-55fd-4070-814a-7359fd34857f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
-    </list>
+    <list default="true" id="edfc4afa-55fd-4070-814a-7359fd34857f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,12 +178,12 @@
       <updated>1574769534454</updated>
       <workItem from="1574769556606" duration="813000" />
       <workItem from="1574790709880" duration="313000" />
-      <workItem from="1575092601189" duration="3815000" />
+      <workItem from="1575092601189" duration="4058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4941000" />
+    <option name="totallyTimeSpent" value="5184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="716" height="900" extended-state="0" />
